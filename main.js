@@ -269,19 +269,3 @@ const median = function(sortResult){
 
   return (sortResult[half - 1] + sortResult[half]) / 2.0;
 }
-
-
-// const median6s = function(sixes){
-//   return sixes.map(median)
- 
-// }
-
-// const median12s = function(twelves){
-//   return twelves.map(findMean)
- 
-// }
-
-// const median20s = function(twenties){
-//   return twenties.map(findMean)
- 
-// 
